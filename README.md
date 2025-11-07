@@ -3,7 +3,7 @@
 **Developer:** Bhushan Rane  
 **Technology Stack:** React.js + Flask + SQLAlchemy + SQLite  
 **Version:** 1.0.0  
-![App Screenshot](images.png)
+![App Screenshot](main/image.png)
 
 ## Project Overview
 
