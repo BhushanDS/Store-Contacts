@@ -312,7 +312,7 @@ npm run dev
 3. **Updating Contacts:** Click "Update" button next to any contact
 4. **Deleting Contacts:** Click "Delete" button next to any contact
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Search and filter functionality
 - [ ] Contact categories/groups
