@@ -103,11 +103,12 @@ if __name__ == "__main__":
         db.create_all()
 
     print("=" * 60)
-    print("?? Contact Management System - Backend Server")
-    print("?? Developed by: Bhushan Rane")
-    print("?? Technology: Flask + SQLAlchemy + SQLite")
-    print("?? Server starting on: http://127.0.0.1:5000")
-    print("?? API Documentation: http://127.0.0.1:5000/developer")
+    print("Contact Management System - Backend Server")
+    print("Developed by: Bhushan Rane")
+    print("Technology: Flask + SQLAlchemy + SQLite")
+    print("Server starting on: http://127.0.0.1:5000")
+    print("API Documentation: http://127.0.0.1:5000/developer")
     print("=" * 60)
     
+
     app.run(debug=True)
